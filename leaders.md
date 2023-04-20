@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Stefano Amorelli](mailto:stefano.amorelli@owasp.org)
+* [Darja Dovbos](mailto:darja.dovbos@owasp.org)
