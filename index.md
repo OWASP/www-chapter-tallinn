@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Tallinn
 tags: tallinn
 region: Europe
+country: Estonia
 meetup-group:
 
 ---
@@ -30,8 +31,8 @@ We welcome our members to contribute with their skills, share the latest securit
 
 Join us in our mission to build a strong cybersecurity mindset and make a difference in Estonia and beyond.
 
-## Partecipate in OWASP
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Participate in OWASP
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
