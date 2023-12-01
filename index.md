@@ -5,7 +5,7 @@ title: OWASP Tallinn
 tags: tallinn
 region: Europe
 country: Estonia
-meetup-group:
+meetup-group: owasp-tallinn-chapter
 
 ---
 
@@ -40,5 +40,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event 
 ---------------------
-We'll be annoucing our first event soon. Stay tuned!
+OWASP Tallinn Chapter meetings are posted on our Meetup Page:
+
+Please visit [OWASP Tallinn Meetup](http://www.meetup.com/owasp-tallinn-chapter)
+
 {% include chapter_events.html group=page.meetup-group %}
