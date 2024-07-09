@@ -5,6 +5,7 @@ layout: null
 tab: true
 order: 1
 tags: tallinn
+meetup-group: owasp-tallinn-chapter
 ---
 
 ## Chapter Meetups and Events
